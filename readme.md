@@ -4,5 +4,6 @@
 
 Olá, bem vindo ao meu livro de receitas :wave:
 
-- Teste
-- outro
+- Strogonoff de Palmito	
+- Berinjela
+- Bolo de cenoura
